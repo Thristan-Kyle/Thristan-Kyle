@@ -51,7 +51,7 @@ Passionate about building scalable, user-friendly applications and exploring new
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="mailto:kylethristan@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=kylethristan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/thristan-kyle-sangga-a3485b194">
